@@ -1,0 +1,37 @@
+exports[`test renders a snapshot 1`] = `
+<div
+  className="App">
+  <div
+    className="App-header">
+    <img
+      alt="logo"
+      className="App-logo"
+      src="test-file-stub" />
+    <h2>
+      Welcome to React
+    </h2>
+  </div>
+  <p
+    className="App-intro">
+    To get started, edit 
+    <code>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+  <span>
+    Value: 
+    0
+    <button
+      className="decrement"
+      onClick={[Function]}>
+      −
+    </button>
+    <button
+      className="increment"
+      onClick={[Function]}>
+      +
+    </button>
+  </span>
+</div>
+`;
